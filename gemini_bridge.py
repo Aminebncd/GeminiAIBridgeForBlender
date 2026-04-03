@@ -7,7 +7,7 @@ import json
 bl_info = {
     "name": "Gemini AI Native Bridge",
     "description": "Connects Blender directly to Google's Gemini AI with scene context awareness, without requiring external pip modules.",
-    "author": "Your Name", # <-- Mets ton nom/pseudo ici
+    "author": "aminebncd", 
     "version": (1, 0, 0),
     "blender": (4, 0, 0),
     "location": "View3D > Sidebar (N) > Gemini AI",
